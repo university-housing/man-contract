@@ -36,6 +36,7 @@ echo "alias cdc=\"cd ~/Google\ Drive\ File\ Stream/Shared\ drives/Customer\ Care
 
 ## Usage
 ```bash
+cdc
 ./the_one_script.sh -h
 USAGE: ./the_one_script.sh [options] email [email2...]
 Options are:
