@@ -53,3 +53,5 @@ Options are:
 ```
 
 ## Common error and fix
+* Script take too long to run --> Press Crtl-C to quit and check if options are supplied correctly.
+* Script doesn't run at all --> Make sure you are in the right directory. Type cdc and try again.
