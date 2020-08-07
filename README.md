@@ -14,6 +14,7 @@ Install HomeBrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 <p align="center"><img src="https://i.imgur.com/0cFYHNT.gif" width="562" alt="install brew"></p>
+
 Install nessesary packages
 ```bash
 brew install coreutils
