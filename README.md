@@ -13,13 +13,16 @@ Install HomeBrew
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
+
 Install nessesary packages
+<p align="center"><img src="https://i.imgur.com/BX5InY8.gif" width="562" alt="fx example"></p>
 ```bash
 brew install coreutils
 brew install fx
 brew install gnu-sed
 brew install jq
 ```
+
 Install oh-my-zsh for better terminal experience
 ```bash
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/        install.sh)"
