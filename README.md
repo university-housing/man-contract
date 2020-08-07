@@ -40,7 +40,7 @@ Navigate to contract folder using above alias
 ```bash
 cdc
 ```
-Run
+Run the script with neccessary options
 ```bash
 ./the_one_script.sh -h
 USAGE: ./the_one_script.sh [options] email [email2...]
