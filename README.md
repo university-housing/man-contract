@@ -9,12 +9,22 @@ Command-line tool for contract generation at University Housing
 * I don't know what else 🤷‍♂️
 
 ## Install
+Install HomeBrew
 ```bash
-git clone https://github.com/ThangEthan/contract
-cd contract
-chmod +x *.sh
-./install.sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
+Install nessesary packages
+```bash
+brew install coreutils
+brew install fx
+brew install gnu-sed
+brew install jq
+```
+Install oh-my-zsh for better terminal experience
+```bash
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/        install.sh)"
+```
+
 ## Usage
 ```bash
 ./the_one_script.sh -h
