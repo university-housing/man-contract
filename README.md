@@ -15,13 +15,13 @@ Install HomeBrew
 ```
 
 Install nessesary packages
-<p align="center"><img src="https://i.imgur.com/BX5InY8.gif" width="562" alt="fx example"></p>
 ```bash
 brew install coreutils
 brew install fx
 brew install gnu-sed
 brew install jq
 ```
+<p align="center"><img src="https://i.imgur.com/BX5InY8.gif" width="562" alt="fx example"></p>
 
 Install oh-my-zsh for better terminal experience
 ```bash
