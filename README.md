@@ -1,5 +1,5 @@
 <h1 align="center">WELLCOME TO THE CONTRACT GENERATOR</h1>
-<p align="center"><img src="https://i.imgur.com/J6z094u.gif" width="562" alt="fx example"></p>
+<p align="center"><img src="https://i.imgur.com/J6z094u.gif" width="562" alt="example"></p>
 
 Command-line tool for contract generation at University Housing
 
@@ -13,7 +13,7 @@ Install HomeBrew
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
-
+<p align="center"><img src="https://i.imgur.com/0cFYHNT.gif" width="562" alt="install brew"></p>
 Install nessesary packages
 ```bash
 brew install coreutils
@@ -21,7 +21,7 @@ brew install fx
 brew install gnu-sed
 brew install jq
 ```
-<p align="center"><img src="https://i.imgur.com/BX5InY8.gif" width="562" alt="fx example"></p>
+<p align="center"><img src="https://i.imgur.com/BX5InY8.gif" width="562" alt="brew install"></p>
 
 Install oh-my-zsh for better terminal experience
 ```bash
