@@ -11,12 +11,14 @@ Command-line tool for contract generation at University Housing
 ## Install
 Install HomeBrew
 ```bash
+#Copy and paste into the terminal. Press RETURN means enter key
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 <p align="center"><img src="https://i.imgur.com/0cFYHNT.gif" width="562" alt="install brew"></p>
 
 Install nessesary packages
 ```bash
+#copy and paste into the termial
 brew install coreutils
 brew install fx
 brew install gnu-sed
