@@ -29,6 +29,11 @@ Install oh-my-zsh for better terminal experience
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
+Add alias for faster navigation
+```bash
+echo "alias cdc=\"cd ~/Google\ Drive\ File\ Stream/Shared\ drives/Customer\ Care/Templates/contract\"" >> ~/.zshrc
+```
+
 ## Usage
 ```bash
 ./the_one_script.sh -h
