@@ -51,3 +51,5 @@ Options are:
     -a          generate apartment type contract.
     -u name     company name (can be uhu, uhr, uha).
 ```
+
+## Common error and fix
