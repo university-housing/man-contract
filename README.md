@@ -45,9 +45,9 @@ Run the script with neccessary options
 ./the_one_script.sh -h
 USAGE: ./the_one_script.sh [options] email [email2...]
 Options are:
-    -h      help
-    -y      open all generated contract when finished
-    -u      company name
-    -k      generate kamer type contract
-    -a      generate apartment type contract
+    -h          help.
+    -y          open all generated contract when finished.
+    -k          generate kamer type contract.
+    -a          generate apartment type contract.
+    -u name     company name (can be uhu, uhr, uha).
 ```
